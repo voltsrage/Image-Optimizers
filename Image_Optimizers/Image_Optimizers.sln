@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gif_Optimizers", "Gif_Optimizers\Gif_Optimizers.csproj", "{23FCF80A-0498-4226-9E0A-6BB23977ED9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PngOptimizer", "PngOptimizer\PngOptimizer.csproj", "{BE9F0E91-C661-49C5-B13A-4FD99C5B4B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FCF80A-0498-4226-9E0A-6BB23977ED9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FCF80A-0498-4226-9E0A-6BB23977ED9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FCF80A-0498-4226-9E0A-6BB23977ED9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FCF80A-0498-4226-9E0A-6BB23977ED9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9F0E91-C661-49C5-B13A-4FD99C5B4B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9F0E91-C661-49C5-B13A-4FD99C5B4B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9F0E91-C661-49C5-B13A-4FD99C5B4B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9F0E91-C661-49C5-B13A-4FD99C5B4B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A82BF8-38A4-4DAB-8F7C-EDA9AAD8ECC5}
+	EndGlobalSection
+EndGlobal
